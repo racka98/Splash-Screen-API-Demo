@@ -5,7 +5,7 @@
         <item name="windowSplashScreenBackground">@color/white</item>
         <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher_round</item>
         <item name="windowSplashScreenAnimationDuration">300</item>
-        <item name="postSplashScreenTheme">@style/Theme.ComposeAndroidTemplate</item>
+        <item name="postSplashScreenTheme">@style/Theme.SplishSplash</item>
 
         <item name="android:statusBarColor" tools:targetApi="l">@color/white</item>
         <item name="android:navigationBarColor">@color/white</item>

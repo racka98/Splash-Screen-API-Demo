@@ -3,7 +3,7 @@
 
     <!-- Fixes Navigation Color for API 27+ for correct navbar buttons colors with white navbar color -->
 
-    <style name="Theme.ComposeAndroidTemplate" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="Theme.SplishSplash" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/primaryColor</item>
         <item name="colorPrimaryVariant">@color/primaryDarkColor</item>
